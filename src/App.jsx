@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Post } from './Post.jsx'
 import { Header } from './components/Header.jsx'
+import './global.css'
 
 export function App() {
   return (
